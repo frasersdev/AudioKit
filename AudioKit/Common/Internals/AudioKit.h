@@ -128,3 +128,6 @@ FOUNDATION_EXPORT const unsigned char AudioKitVersionString[];
 
 // Plots
 #import "EZAudio.h"
+
+//3rd Party
+#import "AKSoftClipAudioUnit.h"
